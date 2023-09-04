@@ -6,7 +6,7 @@
   <version>1.0.1-SNAPSHOT</version>
   <name>Game of Life</name>
   <description>Game of Life swing GUI</description>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <url>https://github.com/1and1/game-of-life</url>
   <organization>
     <name>IONOS SE</name>
